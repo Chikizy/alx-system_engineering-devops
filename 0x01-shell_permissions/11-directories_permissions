@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-find . -type d -exec chmod ugo+x {} +
-=======
 chmod -R +X .
->>>>>>> bb194213b371691111a0db2b052c1f2f4f9a5321
